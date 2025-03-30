@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "files.video",
+    "type": "java.lang.String",
+    "description": "A description for 'files.video'"
+  },
+  {
+    "name": "files.video_hsl",
+    "type": "java.lang.String",
+    "description": "A description for 'files.video_hsl'"
+  }
+]}
