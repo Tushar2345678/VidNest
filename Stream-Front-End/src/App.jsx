@@ -1,9 +1,9 @@
 import React from 'react'
 import { useState } from 'react'
 import './App.css'
-import VideoUpload from './components/VideoUpload'
+import VideoUpload from './pages/VideoUpload'
 import { Toaster } from 'react-hot-toast'
-import VideoPlayer from './components/VideoPlayer'
+import VideoPlayer from './pages/VideoPlayer'
 import Navbar from './components/Navbar'
 
 function App() {

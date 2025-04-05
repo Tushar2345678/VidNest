@@ -2,8 +2,6 @@ import React from "react";
 import { Route, Routes } from "react-router";
 import App from "../App.jsx";
 import VideoUpload from "../components/VideoUpload";
-
-
 const AppRoutes = () => {
     return(
         <Routes>
@@ -14,3 +12,5 @@ const AppRoutes = () => {
         </Routes>
     );
 };
+
+export default AppRoutes;
